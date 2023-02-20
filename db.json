@@ -1,0 +1,26 @@
+{
+  "kata": [
+    {
+      "id": 1,
+      "title": "Abasa Kata 1.1",
+      "artist": "Imam Mishary",
+      "album": "kata",
+      "track": "kataPlay",
+      "year": 2022,
+      "img_src": "",
+      "src": ""
+    },
+     {
+      "id": 2,
+      "title": "Abasa Kata 1.2",
+      "artist": "Imam Mishary",
+      "album": "kata",
+      "track": "kataPlay",
+      "year": 2022,
+      "img_src": "",
+      "src": ""
+    }
+  ],
+  "profile": {
+    "name": "restuA-S7"
+  }
